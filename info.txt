@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pl">
+
+<head>
+    <meta name="Description" content="Opis strony widoczny w wyszukiwarkach" />
+    <meta name="Keywords" content="Słowa kluczowe widoczne dla wyszukiwarek" />
+    <meta charset="utf-8">
+    <title>Piosenki Agnieszki Osieckiej</title>
+</head>
+
+<body>
+    <h2>Na całych jeziorach ty</h2>
+    <p>Na całych jeziorach ty<br>
+        O wszystkich dnia porach ty<br>
+        W marchewce i w naci ty<br>
+        Od Mazur do Francji ty<br>
+        Na co dzień od święta ty<br>
+        I w leśnych zwierzętach ty<br>
+        I w ziołach i w grzybach<br>
+        Nadzieja że to chyba ty<br>
+        We wróżbach i w kartach ty<br>
+        Na serio i w żartach ty<br>
+        W sezonie i potem<br>
+        Przed ptaków odlotem<br>
+        Na wielka tęsknotę ty<br>
+        Zawsze ty</p>
+
+        <p>A w kącie kto stoi Ja<br>
+        Kto się niepokoi Ja<br>
+        W kuchennym lufciku ja<br>
+        W paskudnym wierszyku ja<br>
+        A rozum kto traci Ja<br>
+        Kto łzą się bławaci Ja<br>
+        I kto czeka z pieczenią mazurską jesienią Ja</p>
+
+        <p>Zielono od marzeń mych<br>
+        Na kładce i w barze my<br>
+        Do pary nie w parze bezsenni żeglarze<br>
+        Na całych jeziorach my<br>
+        Jednak my</p>
+</body>
+
+</html>
